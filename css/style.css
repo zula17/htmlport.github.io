@@ -1,0 +1,491 @@
+.tx1{
+position: absolute;
+width: 367px;
+height: 46px;
+left: 670px;
+top: 100px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 38px;
+line-height: 46px;
+color: #7B8B97;
+}
+.tx2{
+    position: absolute;
+width: 234px;
+height: 29px;
+left: 670px;
+top: 161px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+.tx3{
+    position: absolute;
+width: 65px;
+height: 29px;
+left: 970px;
+top: 161px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-align: right;
+
+color: #000000;
+}
+.tx4{
+    position: absolute;
+width: 600px;
+height: 39px;
+left: 670px;
+top: 240px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #7B8B97;
+}
+.tx5{
+    position: absolute;
+width: 600px;
+height: 87px;
+left: 670px;
+top: 289px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-align: justify;
+
+color: #000000;
+}
+.tx6{
+    
+position: absolute;
+width: 600px;
+height: 39px;
+left: 670px;
+top: 416px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #7B8B97;
+}
+.tx7{
+    position: absolute;
+width: 600px;
+height: 29px;
+left: 670px;
+top: 465px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-align: justify;
+
+color: #000000;
+}
+.tx8{
+    position: absolute;
+width: 600px;
+height: 58px;
+left: 670px;
+top: 499px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-align: justify;
+
+color: #000000;
+}
+.tx9{
+    position: absolute;
+width: 154px;
+height: 39px;
+left: 120px;
+top: 551px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.tx10{
+    position: absolute;
+width: 359px;
+height: 261px;
+left: 120px;
+top: 620px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+.tx11{
+    position: absolute;
+width: 282px;
+height: 39px;
+left: 120px;
+top: 941px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.tx12{
+  position: absolute;
+width: 600px;
+height: 39px;
+left: 670px;
+top: 621px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #7B8B97;  
+}
+.tx13{
+    position: absolute;
+width: 600px;
+height: 29px;
+left: 670px;
+top: 670px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+
+.tx14{
+    position: absolute;
+width: 600px;
+height: 29px;
+left: 670px;
+top: 704px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+.tx15{
+    position: absolute;
+width: 600px;
+height: 29px;
+left: 670px;
+top: 738px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+.tx16{
+    position: absolute;
+width: 600px;
+height: 39px;
+left: 670px;
+top: 807px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #7B8B97;
+}
+.tx17{
+    position: absolute;
+width: 600px;
+height: 29px;
+left: 670px;
+top: 856px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+.tx18{
+    position: absolute;
+width: 600px;
+height: 29px;
+left: 670px;
+top: 890px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+.tx19{
+    position: absolute;
+width: 71px;
+height: 29px;
+left: 670px;
+top: 924px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+.tx20{
+    position: absolute;
+width: 600px;
+height: 15px;
+left: 670px;
+top: 953px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.tx21{
+    position: absolute;
+width: 600px;
+height: 29px;
+left: 670px;
+top: 998px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+.tx22{
+    position: absolute;
+width: 600px;
+height: 29px;
+left: 670px;
+top: 1032px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+}
+.tx23{
+    position: absolute;
+width: 59px;
+height: 29px;
+left: 670px;
+top: 1066px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+.tx24{
+    position: absolute;
+width: 600px;
+height: 15px;
+left: 670px;
+top: 1095px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.tx25{
+    position: absolute;
+width: 600px;
+height: 29px;
+left: 670px;
+top: 1140px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+.tx26{
+    position: absolute;
+width: 600px;
+height: 29px;
+left: 670px;
+top: 1174px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+.tx27{
+    position: absolute;
+width: 600px;
+height: 29px;
+left: 670px;
+top: 1208px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+.tx28{
+    position: absolute;
+width: 600px;
+height: 15px;
+left: 670px;
+top: 1237px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+
+.ig1{
+    position: absolute;
+width: 220px;
+height: 32px;
+left: 120px;
+top: 1010px;
+}
+.ig2{
+    position: absolute;
+width: 220px;
+height: 32px;
+left: 120px;
+top: 1062px;
+}
+.ig3{
+    position: absolute;
+width: 220px;
+height: 32px;
+left: 120px;
+top: 1114px;
+}
+.ig4{
+    position: absolute;
+width: 220px;
+height: 32px;
+left: 120px;
+top: 1166px;
+
+}
+.ig5{
+    position: absolute;
+width: 220px;
+height: 32px;
+left: 120px;
+top: 1218px;
+
+}
+.lg1{
+ position: absolute;
+width: 60px;
+height: 39px;
+left: 206px;
+top: 456px;
+}
